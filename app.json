@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Nouzl_App",
-    "slug": "Nouzl_App",
+    "slug": "nouzlapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -44,6 +44,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "fe9b90d8-c819-49ca-980a-bb7b3524c8cd"
+      }
+    },
+    "owner": "mohamedh1000"
   }
 }
